@@ -1,0 +1,5 @@
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\08_Maximal_sum\bin\Debug\08_Maximal_sum.exe
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\08_Maximal_sum\bin\Debug\08_Maximal_sum.pdb
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\08_Maximal_sum\obj\Debug\08_Maximal_sum.csprojResolveAssemblyReference.cache
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\08_Maximal_sum\obj\Debug\08_Maximal_sum.exe
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\08_Maximal_sum\obj\Debug\08_Maximal_sum.pdb

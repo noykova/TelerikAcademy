@@ -1,0 +1,5 @@
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\16_Subset_with_sum_S\obj\Debug\16_Subset_with_sum_S.csprojResolveAssemblyReference.cache
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\16_Subset_with_sum_S\bin\Debug\16_Subset_with_sum_S.exe
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\16_Subset_with_sum_S\bin\Debug\16_Subset_with_sum_S.pdb
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\16_Subset_with_sum_S\obj\Debug\16_Subset_with_sum_S.exe
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\16_Subset_with_sum_S\obj\Debug\16_Subset_with_sum_S.pdb

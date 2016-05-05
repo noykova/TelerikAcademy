@@ -1,0 +1,5 @@
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\11_Binary_search\bin\Debug\11_Binary_search.exe
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\11_Binary_search\bin\Debug\11_Binary_search.pdb
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\11_Binary_search\obj\Debug\11_Binary_search.csprojResolveAssemblyReference.cache
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\11_Binary_search\obj\Debug\11_Binary_search.exe
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\11_Binary_search\obj\Debug\11_Binary_search.pdb
