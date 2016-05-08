@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("03_Sequence_in_matrix")]
+[assembly: AssemblyTitle("03_Compare_char_arrays")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("03_Sequence_in_matrix")]
+[assembly: AssemblyProduct("03_Compare_char_arrays")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("76893d1c-e7d9-4818-9ff6-ba26c5067ab8")]
+[assembly: Guid("e64bd48a-f5ba-4cb2-a9bd-05c4a95065c6")]
 
 // Version information for an assembly consists of the following four values:
 //
