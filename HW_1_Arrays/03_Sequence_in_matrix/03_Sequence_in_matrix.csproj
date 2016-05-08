@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E872AB4C-EA6F-4CD6-848D-ADB2216F0670}</ProjectGuid>
+    <ProjectGuid>{201DAA25-5F0B-4288-8C78-100AF3E51D0C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_03_Compare_char_arrays</RootNamespace>
-    <AssemblyName>03_Compare_char_arrays</AssemblyName>
+    <RootNamespace>_03_Sequence_in_matrix</RootNamespace>
+    <AssemblyName>03_Sequence_in_matrix</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Compare_char_arrays.cs" />
+    <Compile Include="Sequence_in_matrix.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
