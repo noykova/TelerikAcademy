@@ -1,0 +1,5 @@
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\03_English_digit\bin\Debug\03_English_digit.exe
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\03_English_digit\bin\Debug\03_English_digit.pdb
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\03_English_digit\obj\Debug\03_English_digit.exe
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\03_English_digit\obj\Debug\03_English_digit.pdb
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\03_English_digit\obj\Debug\03_English_digit.csprojResolveAssemblyReference.cache

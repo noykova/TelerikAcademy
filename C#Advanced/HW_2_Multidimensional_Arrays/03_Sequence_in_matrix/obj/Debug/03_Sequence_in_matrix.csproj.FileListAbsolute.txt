@@ -1,0 +1,5 @@
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\03_Sequence_in_matrix\bin\Debug\03_Sequence_in_matrix.exe
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\03_Sequence_in_matrix\bin\Debug\03_Sequence_in_matrix.pdb
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\03_Sequence_in_matrix\obj\Debug\03_Sequence_in_matrix.exe
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\03_Sequence_in_matrix\obj\Debug\03_Sequence_in_matrix.pdb
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\03_Sequence_in_matrix\obj\Debug\03_Sequence_in_matrix.csprojResolveAssemblyReference.cache

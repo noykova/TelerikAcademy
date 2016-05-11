@@ -1,0 +1,5 @@
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\02_Get_largest_number\bin\Debug\02_Get_largest_number.exe
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\02_Get_largest_number\bin\Debug\02_Get_largest_number.pdb
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\02_Get_largest_number\obj\Debug\02_Get_largest_number.csprojResolveAssemblyReference.cache
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\02_Get_largest_number\obj\Debug\02_Get_largest_number.exe
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\02_Get_largest_number\obj\Debug\02_Get_largest_number.pdb

@@ -1,0 +1,5 @@
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\09_Frequent_number\bin\Debug\09_Frequent_number.exe
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\09_Frequent_number\bin\Debug\09_Frequent_number.pdb
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\09_Frequent_number\obj\Debug\09_Frequent_number.csprojResolveAssemblyReference.cache
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\09_Frequent_number\obj\Debug\09_Frequent_number.exe
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\09_Frequent_number\obj\Debug\09_Frequent_number.pdb
