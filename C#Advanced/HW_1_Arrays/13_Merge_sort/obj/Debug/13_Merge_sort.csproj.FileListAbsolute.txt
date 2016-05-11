@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\13_Merge_sort\bin\Debug\13_Merge_sort.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\13_Merge_sort\bin\Debug\13_Merge_sort.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\13_Merge_sort\obj\Debug\13_Merge_sort.csprojResolveAssemblyReference.cache
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\13_Merge_sort\obj\Debug\13_Merge_sort.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\13_Merge_sort\obj\Debug\13_Merge_sort.pdb

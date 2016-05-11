@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\01_Say_Hello\bin\Debug\01_Say_Hello.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\01_Say_Hello\bin\Debug\01_Say_Hello.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\01_Say_Hello\obj\Debug\01_Say_Hello.csprojResolveAssemblyReference.cache
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\01_Say_Hello\obj\Debug\01_Say_Hello.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\01_Say_Hello\obj\Debug\01_Say_Hello.pdb

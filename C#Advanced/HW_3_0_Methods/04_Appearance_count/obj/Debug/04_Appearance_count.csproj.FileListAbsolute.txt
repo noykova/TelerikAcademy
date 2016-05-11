@@ -1,4 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\04_Appearance_count\bin\Debug\04_Appearance_count.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\04_Appearance_count\bin\Debug\04_Appearance_count.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\04_Appearance_count\obj\Debug\04_Appearance_count.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\04_Appearance_count\obj\Debug\04_Appearance_count.pdb

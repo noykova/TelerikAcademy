@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\11_Adding_polynomials\bin\Debug\11_Adding_polynomials.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\11_Adding_polynomials\bin\Debug\11_Adding_polynomials.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\11_Adding_polynomials\obj\Debug\11_Adding_polynomials.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\11_Adding_polynomials\obj\Debug\11_Adding_polynomials.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\11_Adding_polynomials\obj\Debug\11_Adding_polynomials.csprojResolveAssemblyReference.cache

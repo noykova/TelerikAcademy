@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\13_Solve_tasks\bin\Debug\13_Solve_tasks.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\13_Solve_tasks\bin\Debug\13_Solve_tasks.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\13_Solve_tasks\obj\Debug\13_Solve_tasks.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\13_Solve_tasks\obj\Debug\13_Solve_tasks.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\13_Solve_tasks\obj\Debug\13_Solve_tasks.csprojResolveAssemblyReference.cache

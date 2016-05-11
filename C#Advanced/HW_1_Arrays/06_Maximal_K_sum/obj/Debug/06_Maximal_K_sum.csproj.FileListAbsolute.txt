@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\06_Maximal_K_sum\bin\Debug\06_Maximal_K_sum.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\06_Maximal_K_sum\bin\Debug\06_Maximal_K_sum.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\06_Maximal_K_sum\obj\Debug\06_Maximal_K_sum.csprojResolveAssemblyReference.cache
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\06_Maximal_K_sum\obj\Debug\06_Maximal_K_sum.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\06_Maximal_K_sum\obj\Debug\06_Maximal_K_sum.pdb

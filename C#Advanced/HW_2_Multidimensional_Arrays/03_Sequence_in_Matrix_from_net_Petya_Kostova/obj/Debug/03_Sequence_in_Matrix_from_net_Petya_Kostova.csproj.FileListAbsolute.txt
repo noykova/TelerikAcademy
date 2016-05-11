@@ -1,1 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\03_Sequence_in_Matrix_from_net_Petya_Kostova\bin\Debug\03_Sequence_in_Matrix_from_net_Petya_Kostova.exe.config

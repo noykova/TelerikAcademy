@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\05_Maximal_increasing_sequence\bin\Debug\05_Maximal_increasing_sequence.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\05_Maximal_increasing_sequence\bin\Debug\05_Maximal_increasing_sequence.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\05_Maximal_increasing_sequence\obj\Debug\05_Maximal_increasing_sequence.csprojResolveAssemblyReference.cache
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\05_Maximal_increasing_sequence\obj\Debug\05_Maximal_increasing_sequence.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\05_Maximal_increasing_sequence\obj\Debug\05_Maximal_increasing_sequence.pdb

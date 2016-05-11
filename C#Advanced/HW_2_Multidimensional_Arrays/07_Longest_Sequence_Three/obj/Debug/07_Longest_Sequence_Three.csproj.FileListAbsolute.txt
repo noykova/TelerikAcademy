@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\07_Longest_Sequence_Three\bin\Debug\07_Longest_Sequence_Three.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\07_Longest_Sequence_Three\bin\Debug\07_Longest_Sequence_Three.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\07_Longest_Sequence_Three\obj\Debug\07_Longest_Sequence_Three.csprojResolveAssemblyReference.cache
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\07_Longest_Sequence_Three\obj\Debug\07_Longest_Sequence_Three.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\07_Longest_Sequence_Three\obj\Debug\07_Longest_Sequence_Three.pdb

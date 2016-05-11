@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\14_ Integer_calculations\bin\Debug\14_ Integer_calculations.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\14_ Integer_calculations\bin\Debug\14_ Integer_calculations.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\14_ Integer_calculations\obj\Debug\14_ Integer_calculations.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\14_ Integer_calculations\obj\Debug\14_ Integer_calculations.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\14_ Integer_calculations\obj\Debug\14_ Integer_calculations.csprojResolveAssemblyReference.cache

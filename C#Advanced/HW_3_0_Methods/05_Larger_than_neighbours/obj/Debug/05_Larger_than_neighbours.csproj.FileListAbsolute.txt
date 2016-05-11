@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\05_Larger_than_neighbours\bin\Debug\05_Larger_than_neighbours.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\05_Larger_than_neighbours\bin\Debug\05_Larger_than_neighbours.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\05_Larger_than_neighbours\obj\Debug\05_Larger_than_neighbours.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\05_Larger_than_neighbours\obj\Debug\05_Larger_than_neighbours.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\05_Larger_than_neighbours\obj\Debug\05_Larger_than_neighbours.csprojResolveAssemblyReference.cache

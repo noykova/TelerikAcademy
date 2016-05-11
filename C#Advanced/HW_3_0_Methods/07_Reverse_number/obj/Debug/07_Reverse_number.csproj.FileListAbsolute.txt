@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\07_Reverse_number\bin\Debug\07_Reverse_number.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\07_Reverse_number\bin\Debug\07_Reverse_number.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\07_Reverse_number\obj\Debug\07_Reverse_number.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\07_Reverse_number\obj\Debug\07_Reverse_number.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Method\07_Reverse_number\obj\Debug\07_Reverse_number.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\14_Quick_sort\bin\Debug\14_Quick_sort.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\14_Quick_sort\bin\Debug\14_Quick_sort.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\14_Quick_sort\obj\Debug\14_Quick_sort.csprojResolveAssemblyReference.cache
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\14_Quick_sort\obj\Debug\14_Quick_sort.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\14_Quick_sort\obj\Debug\14_Quick_sort.pdb
