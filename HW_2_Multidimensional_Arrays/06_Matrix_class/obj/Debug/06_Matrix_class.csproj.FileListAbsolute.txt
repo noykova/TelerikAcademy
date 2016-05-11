@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\06_Matrix_class\bin\Debug\06_Matrix_class.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\06_Matrix_class\bin\Debug\06_Matrix_class.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\06_Matrix_class\obj\Debug\06_Matrix_class.csprojResolveAssemblyReference.cache
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\06_Matrix_class\obj\Debug\06_Matrix_class.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\06_Matrix_class\obj\Debug\06_Matrix_class.pdb

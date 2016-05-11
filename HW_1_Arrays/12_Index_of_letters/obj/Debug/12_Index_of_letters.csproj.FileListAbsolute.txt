@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\12_Index_of_letters\obj\Debug\12_Index_of_letters.csprojResolveAssemblyReference.cache
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\12_Index_of_letters\bin\Debug\12_Index_of_letters.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\12_Index_of_letters\bin\Debug\12_Index_of_letters.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\12_Index_of_letters\obj\Debug\12_Index_of_letters.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\12_Index_of_letters\obj\Debug\12_Index_of_letters.pdb

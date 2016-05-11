@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\02_Compare_arrays\bin\Debug\02_Compare_arrays.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\02_Compare_arrays\bin\Debug\02_Compare_arrays.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\02_Compare_arrays\obj\Debug\02_Compare_arrays.csprojResolveAssemblyReference.cache
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\02_Compare_arrays\obj\Debug\02_Compare_arrays.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\02_Compare_arrays\obj\Debug\02_Compare_arrays.pdb

@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\15_Prime_numbers\bin\Debug\15_Prime_numbers.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\15_Prime_numbers\bin\Debug\15_Prime_numbers.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\15_Prime_numbers\obj\Debug\15_Prime_numbers.csprojResolveAssemblyReference.cache
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\15_Prime_numbers\obj\Debug\15_Prime_numbers.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\15_Prime_numbers\obj\Debug\15_Prime_numbers.pdb

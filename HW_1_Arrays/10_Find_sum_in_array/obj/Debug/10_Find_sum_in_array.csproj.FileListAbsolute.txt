@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\10_Find_sum_in_array\bin\Debug\10_Find_sum_in_array.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\10_Find_sum_in_array\bin\Debug\10_Find_sum_in_array.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\10_Find_sum_in_array\obj\Debug\10_Find_sum_in_array.csprojResolveAssemblyReference.cache
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\10_Find_sum_in_array\obj\Debug\10_Find_sum_in_array.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\10_Find_sum_in_array\obj\Debug\10_Find_sum_in_array.pdb

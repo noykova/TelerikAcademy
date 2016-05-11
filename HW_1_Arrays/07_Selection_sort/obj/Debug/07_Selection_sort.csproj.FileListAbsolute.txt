@@ -1,4 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\07_Selection_sort\bin\Debug\07_Selection_sort.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\07_Selection_sort\bin\Debug\07_Selection_sort.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\07_Selection_sort\obj\Debug\07_Selection_sort.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_1_Arrays\07_Selection_sort\obj\Debug\07_Selection_sort.pdb

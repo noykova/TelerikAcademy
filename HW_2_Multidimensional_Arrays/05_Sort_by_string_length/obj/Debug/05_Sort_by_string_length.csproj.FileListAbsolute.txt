@@ -1,4 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\05_Sort_by_string_length\bin\Debug\05_Sort_by_string_length.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\05_Sort_by_string_length\bin\Debug\05_Sort_by_string_length.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\05_Sort_by_string_length\obj\Debug\05_Sort_by_string_length.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\05_Sort_by_string_length\obj\Debug\05_Sort_by_string_length.pdb

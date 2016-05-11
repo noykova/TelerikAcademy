@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\01_Fill_the_matrix\bin\Debug\01_Fill_the_matrix.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\01_Fill_the_matrix\bin\Debug\01_Fill_the_matrix.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\01_Fill_the_matrix\obj\Debug\01_Fill_the_matrix.csprojResolveAssemblyReference.cache
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\01_Fill_the_matrix\obj\Debug\01_Fill_the_matrix.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_2_Multidimensional_Arrays\01_Fill_the_matrix\obj\Debug\01_Fill_the_matrix.pdb
