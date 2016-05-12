@@ -1,0 +1,5 @@
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\04_Hexadecimal_to_decimal\bin\Debug\04_Hexadecimal_to_decimal.exe
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\04_Hexadecimal_to_decimal\bin\Debug\04_Hexadecimal_to_decimal.pdb
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\04_Hexadecimal_to_decimal\obj\Debug\04_Hexadecimal_to_decimal.exe
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\04_Hexadecimal_to_decimal\obj\Debug\04_Hexadecimal_to_decimal.pdb
+I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\04_Hexadecimal_to_decimal\obj\Debug\04_Hexadecimal_to_decimal.csprojResolveAssemblyReference.cache
