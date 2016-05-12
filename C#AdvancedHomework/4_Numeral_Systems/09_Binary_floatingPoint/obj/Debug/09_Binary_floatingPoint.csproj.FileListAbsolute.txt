@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\09_Binary_floatingPoint\bin\Debug\09_Binary_floatingPoint.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\09_Binary_floatingPoint\bin\Debug\09_Binary_floatingPoint.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\09_Binary_floatingPoint\obj\Debug\09_Binary_floatingPoint.csprojResolveAssemblyReference.cache
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\09_Binary_floatingPoint\obj\Debug\09_Binary_floatingPoint.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\09_Binary_floatingPoint\obj\Debug\09_Binary_floatingPoint.pdb

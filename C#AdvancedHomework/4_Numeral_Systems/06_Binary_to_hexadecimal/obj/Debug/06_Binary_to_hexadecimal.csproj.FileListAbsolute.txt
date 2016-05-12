@@ -1,4 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\06_Binary_to_hexadecimal\bin\Debug\06_Binary_to_hexadecimal.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\06_Binary_to_hexadecimal\bin\Debug\06_Binary_to_hexadecimal.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\06_Binary_to_hexadecimal\obj\Debug\06_Binary_to_hexadecimal.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\06_Binary_to_hexadecimal\obj\Debug\06_Binary_to_hexadecimal.pdb

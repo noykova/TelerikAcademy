@@ -1,1 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\01_Decimal_to_binary\bin\Debug\01_Decimal_to_binary.exe.config

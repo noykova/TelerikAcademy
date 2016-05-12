@@ -1,5 +1,0 @@
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\05_Hexadecimal_to_binary\bin\Debug\05_Hexadecimal_to_binary.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\05_Hexadecimal_to_binary\bin\Debug\05_Hexadecimal_to_binary.pdb
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\05_Hexadecimal_to_binary\obj\Debug\05_Hexadecimal_to_binary.csprojResolveAssemblyReference.cache
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\05_Hexadecimal_to_binary\obj\Debug\05_Hexadecimal_to_binary.exe
-I:\Neli\Telerik\Telerik_C_Sharp_2\Me\HW_30_Numeral_Systems\05_Hexadecimal_to_binary\obj\Debug\05_Hexadecimal_to_binary.pdb
