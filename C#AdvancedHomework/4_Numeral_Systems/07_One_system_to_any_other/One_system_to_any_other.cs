@@ -70,8 +70,18 @@ using System.Text;
                         multiplier = int.Parse(n[n.Length - i - 1].ToString());
                         break;
                 }
+                long toPowerI = 1;
+                if (i > 0)
+                {
+                    for (int j = 1; j <= i; j++)
+                    {
+                        //Math.Pow(fromBase, i) is not always correct
+                        toPowerI = toPowerI*fromBase;
+                    }
+                }
 
-                toBaseNumber += multiplier * (long)Math.Pow(fromBase, i);
+                toBaseNumber += multiplier * toPowerI; 
+               
             }
 
             return toBaseNumber;
