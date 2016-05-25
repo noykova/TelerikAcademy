@@ -6,6 +6,12 @@ Input
 Output
 •	Print a number on a single line 
 o	The number of occurrences
+ * 
+ * Регулярните изрази са по-бавни от IndexOf.
+ * 
+ * Result - 100/100
+ * 
+ * 
 */
 
 using System;
@@ -19,11 +25,11 @@ using System.Linq;
             int count = 0;//result
             int k = 0;//check if chars are equal
 
-            string subStrI = Console.ReadLine();
-            string subStr = subStrI.ToLower();
+            string subStr = Console.ReadLine();
+           // string subStr = subStrI.ToLower();
 
-            string strI = Console.ReadLine();
-            string str = strI.ToLower();
+            string str = Console.ReadLine();
+          //  string str = strI.ToLower();
 
             char[] charStr = str.ToCharArray();
             char[] charSubstr = subStr.ToCharArray();
@@ -33,11 +39,12 @@ using System.Linq;
                 Console.WriteLine("Error: The substring is bigger than the input string.");
             }
 
-            for (int i = 0; i < str.Length-subStr.Length; i++)
+            for (int i = 0; i < str.Length-subStr.Length+1; i++)
             {
-                string temp = str.Substring(i, subStr.Length);
+                //string temp = str.Substring(i, subStr.Length);
                 //overlapping should be allowed
-                if (subStr.Equals(temp))
+                if (str.Substring(i, subStr.Length).Equals(subStr, StringComparison.OrdinalIgnoreCase))
+
                 {
                     count++;
                 }

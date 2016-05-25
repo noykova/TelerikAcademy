@@ -4,6 +4,10 @@ Input
 •	On the only input line you will a string
 Output
 •	Print the string in C# Unicode character literals on a single line
+ * 
+ * BGCoder - 60/100
+ * 
+ * about command characters: https://msdn.microsoft.com/en-us/library/aa691087%28v=vs.71%29.aspx 
 */
 
 using System;
@@ -16,18 +20,20 @@ using System.Text;
         {
             string text = Console.ReadLine();
             StringBuilder newText = new StringBuilder();
-            string[] unicodeChar = new string[text.Length];
-            int[] temp = new int[text.Length];
-            string[] temp1 = new string[text.Length];
+            //string[] unicodeChar = new string[text.Length];
+            //int[] temp = new int[text.Length];
+            //string[] temp1 = new string[text.Length];
 
             for (int i = 0; i < text.Length; i++)
             {
-                if (((int)text[i] >= 32) && ((int)text[i] <= 126))
-                {
-                    temp[i] = (int)text[i];
-                    unicodeChar[i] = "\\u" + temp[i].ToString("X4");
-                    newText.Append(unicodeChar[i]);
-                }
+                //if I check if the characters are letters, I get 30/100. 
+                //if (((int)text[i] >= 32) && ((int)text[i] <= 126))
+               // {
+                   // temp[i] = (int)text[i];
+                    //unicodeChar[i] = "\\u" + temp[i].ToString("X4");
+                    newText.AppendFormat("\\u{0:X4}", (int)text[i]);
+                    //newText.Append(unicodeChar[i]);
+                //}
             }
 
             Console.WriteLine(newText);

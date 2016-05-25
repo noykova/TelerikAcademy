@@ -4,6 +4,8 @@ Input
 •	On the only line you will receive a string - the text
 Output
 •	Print the changed string on one line
+ * 
+ * BGCoder - 100/100
 */
 
 using System;

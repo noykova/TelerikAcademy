@@ -4,6 +4,10 @@ Input
 •	On the only line you will receive an expression
 Output
 •	Print Correct if the brackets are correct 
+ * 
+ *CheckCorrectParenthesisUsingCharArr(s) - 100/100;
+ *CheckCorrectParenthesisUsingStack(s) - 72/100 - RunTime Error?;
+ * 
 */
 
 using System;
